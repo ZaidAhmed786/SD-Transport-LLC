@@ -188,7 +188,7 @@ export default function Footer3() {
                     <div className="container">
                          <div className="text-sm-start text-center d-md-flex gap-sm-5 gap-2 d-grid align-items-center  justify-content-sm-between justify-content-center">
                             <p className="pra-clr">
-                                © 2020-2025 {new Date().getFullYear()}SD<Link href="/" className="theme-clr">  Transport, LLC.</Link> Baton Rouge, LA 70817-6420, USA. All Rights Reserved.
+                                © 2020-2025 {new Date().getFullYear()}SD Transport, LLC.<Link href="/" className="theme-clr">  </Link> Baton Rouge, LA 70817-6420, USA. All Rights Reserved.
                             </p>
                             <p className="gap-4 d-flex">
 

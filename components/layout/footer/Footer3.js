@@ -186,9 +186,9 @@ export default function Footer3() {
                 </div>
                 <div className="footer-bottom-version-two bg2-clr py-xxl-10 py-xl-8 py-lg-7 py-6">
                     <div className="container">
-                        <div className="text-sm-start text-center d-sm-flex gap-sm-0 gap-2 d-grid align-items-center justify-content-sm-between justify-content-center">
+                         <div className="text-sm-start text-center d-md-flex gap-sm-5 gap-2 d-grid align-items-center  justify-content-sm-between justify-content-center">
                             <p className="pra-clr">
-                                © All Copyright {new Date().getFullYear()} by <Link href="/" className="theme-clr">  SD Transport LLC </Link>
+                                © 2020-2025 {new Date().getFullYear()}SD<Link href="/" className="theme-clr">  Transport, LLC.</Link> Baton Rouge, LA 70817-6420, USA. All Rights Reserved.
                             </p>
                             <p className="gap-4 d-flex">
 
